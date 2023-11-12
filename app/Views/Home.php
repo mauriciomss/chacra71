@@ -5,12 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?=$title;?> | Chacra 71</title>
 
-
     <meta name="description" content="mauriciomss">
     <meta name="keywords" content="mauriciomss">
     <meta name="author" content="mauriciomss - https://mauriciomss.github.io/">
     <link rel="shortcut icon" type="image/png" href="<?=base_url('assets/dist/img/logo.png');?>" />
-
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -105,7 +103,6 @@
                                     <span class="info-box-text">Luminarias problemas</span>
                                     <span class="info-box-number">
                                         1
-                                        <small>%</small>
                                     </span>
                                 </div>
                                 <!-- /.info-box-content -->
