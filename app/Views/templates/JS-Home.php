@@ -27,7 +27,8 @@ const mapa = new ol.Map({
     view: new ol.View({
         center: ol.proj.fromLonLat([LONGITUD_CENTRO, LATITUD_CENTRO]),
         zoom: ZOOM,
-    })
+    }),
+    interactions: ol.interaction.defaults({mouseWheelZoom:false}),
 });
 
 const refrescarMapaConCategoria = () => {
