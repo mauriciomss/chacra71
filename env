@@ -36,7 +36,6 @@ database.default.database = base.sqlite
 database.default.username = 
 database.default.password = 
 database.default.DBDriver = SQLite3
-database.default.DBPrefix =
 
 # database.tests.hostname = localhost
 # database.tests.database = ci4_test
